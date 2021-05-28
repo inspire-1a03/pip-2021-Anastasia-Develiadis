@@ -28,7 +28,7 @@ nav_order: 2
 ## 2. Ontario's testing and vaccination trends 
 > Q2: How has Ontario responded to COVID in terms of testing and vaccinations? 
 
-![figure1](/assets/img/figure2.jpg)
+![figure2new](/assets/img/figure2new.jpg)
 
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
