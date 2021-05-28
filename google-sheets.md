@@ -9,12 +9,20 @@ nav_order: 2
 ## 1. Trends in national case data
 > Q1: How has daily COVID-19 cases, hospitalizations and deaths changed in Canada over time since the beginning of the pandemic?
 
-![figure1](/assets/images/figure1.png) 
+![figure1](/assets/img/figure1.jpg) 
 
 
 #### Summary
-<!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
 
+**Change in the number of cases:** Throughout the three waves, the change in the number of cases increases significantly. 
+
+**Change in the number of fatalities:** Throught the first two waves, the number of fatalities remains at a high rate, however, the third wave shows the fatalities decrease significantly as vaccine distribution increases. 
+
+**Total Hospitalization:** The first wave shows that the hospitalization is very low however, increases through the second and third wave. 
+
+**Overall:** Although the change in the number of cases increases thoughout the three waves of the pandemic, the increase in hospitalizations in the second and third wave may account for the decreases in the number of fatalities in the third wave. 
+
+ 
 ---
 
 ## 2. Ontario's testing and vaccination trends 
