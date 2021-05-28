@@ -9,7 +9,8 @@ nav_order: 2
 ## 1. Trends in national case data
 > Q1: How has daily COVID-19 cases, hospitalizations and deaths changed in Canada over time since the beginning of the pandemic?
 
-<!-- Paste your embed code for your figure below-->
+![figure1](/assets/images/figure1.png) 
+
 
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
