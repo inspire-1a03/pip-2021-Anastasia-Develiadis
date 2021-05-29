@@ -38,7 +38,8 @@ nav_order: 2
 ## 3. Vaccination rates across provinces and territories
 > Q3: How do vaccination rates over time compare between all provinces and territories? 
 
-![figure2new](https://docs.google.com/spreadsheets/d/e/2PACX-1vTGJwzsqhVBwAH97WDFcy_QC2hBukEymk8QgswCjVI_OGyCXyaBdUwPI_X8AK-MUqT1YGuYRPRV57lo/pubchart?oid=233487689&format=interactive)
+<iframe width="789" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGJwzsqhVBwAH97WDFcy_QC2hBukEymk8QgswCjVI_OGyCXyaBdUwPI_X8AK-MUqT1YGuYRPRV57lo/pubchart?oid=233487689&amp;format=interactive"></iframe>
+
 
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
@@ -49,6 +50,7 @@ nav_order: 2
 > Q4. How has mobility changed in Canada over the pandemic?
 
 <iframe width="710" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS3UJBOBHRzSkqSPRL1DYPEms4EeCBjkvjvqgf4UUEBMQt5FmSpWhBBupcqyYDoKpqjM18TMCkOAcYZ/pubchart?oid=1990379962&amp;format=interactive"></iframe>
+
 
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
