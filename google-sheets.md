@@ -38,7 +38,7 @@ nav_order: 2
 ## 3. Vaccination rates across provinces and territories
 > Q3: How do vaccination rates over time compare between all provinces and territories? 
 
-<!-- Paste your embed code for your figure below-->
+![figure2new](https://docs.google.com/spreadsheets/d/e/2PACX-1vTGJwzsqhVBwAH97WDFcy_QC2hBukEymk8QgswCjVI_OGyCXyaBdUwPI_X8AK-MUqT1YGuYRPRV57lo/pubchart?oid=233487689&format=interactive)
 
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
