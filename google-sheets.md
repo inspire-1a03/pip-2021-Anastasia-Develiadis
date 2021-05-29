@@ -48,7 +48,7 @@ nav_order: 2
 ## 4. Canadian mobility trends 
 > Q4. How has mobility changed in Canada over the pandemic?
 
-<!-- Paste your embed code for your figure below-->
+<iframe width="710" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS3UJBOBHRzSkqSPRL1DYPEms4EeCBjkvjvqgf4UUEBMQt5FmSpWhBBupcqyYDoKpqjM18TMCkOAcYZ/pubchart?oid=1990379962&amp;format=interactive"></iframe>
 
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
