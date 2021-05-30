@@ -31,7 +31,7 @@ nav_order: 2
 ![figure2new](/assets/img/figure2new.jpg)
 
 #### Summary
-<!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
+There is a steady increase of tests per 100 people beginning in April of 2020 followed by a steady increase of vaccinations not beginning until January of 2021. 
 
 ---
 
@@ -42,7 +42,7 @@ nav_order: 2
 
 
 #### Summary
-<!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
+Nova Scotia, Nunavut and Northwest Territories have a significatly higher number and rate of vaccinations per 100 people than the rest of the provinces. The other provinces appear to follow the same trend at a significantly lower rate and number. 
 
 ---
 
