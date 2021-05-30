@@ -67,7 +67,6 @@ In the fourth figure, we see mobility trends in Canada over the course of the pa
 
 Moving forward, it would be helpful to know what kind of access that the three provinces/ territories had to vaccinations that the other provinces did not to figure of why they had so much of higher vaccination rate. It will also be useful to see the upcoming trends in the populations mobility to parks this summer to see if it matches the trend of last summer with more public places likely opening up. 
 
-![image](https://user-images.githubusercontent.com/84759213/120091774-30dc1580-c0dc-11eb-8e58-7949cf135303.png)
 
 
  
