@@ -60,5 +60,5 @@ Nova Scotia, Nunavut and Northwest Territories have a significatly higher number
 > What questions still exist about the trends and the data? What new questions has this process generated? 
 > What additional information would you like to help answer these questions? 
 
-<!-- Write a short response below-->
+It appears that during the first wave of the pandemic, beginning in April of 2020, there was a significant increase in visits to parks. However, this could simply be due to in a increase in temperature as Canada enters into its summer months. 
 
