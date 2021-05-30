@@ -43,12 +43,15 @@ nav_order: 3
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
 
 ## 4. Reflection 
-> What are your initial thoughts about using Tableau vs. Google Sheets? What might be the advantages of each? 
-> What inferences can you make from the Mobility data that you explored and visualized? 
-> What new questions would you like to ask of the data? 
-> How might you use these two datasets together to perform new analyses? 
 
-<!-- Write a short response below-->
+Using Tableau to display data is completely new territory to me, unlike Google Sheets of which I have used before (but have never been good at). I quite liked using Tableau’s interface to create visually appealing displays of data. I found the overall usage to be very tactile which makes a lot of sense especially for someone who is not used to using these kinds of software. Google Sheets seemed to work better for manipulating data to suit the research question (i.e. “per 100 people”) whereas Tableau I found to be much easier to visualize data in a way that makes sense to me (not technologically savvy). 
+
+As for the mobility data, the first mobility figure shows that most main provinces follow the same trends of mobility. Newfoundland does have a higher mobility rate between May, 2020 and February of 2021 but this could potentially be due to different travel restrictions in that province at the time. This does not make a lot of sense since their number vaccinations per 100 people is less than other provinces such as Ontario but there is the possibility that they had less cases to begin with. Perhaps having the data of the number of cases per province would be useful in further answering that question. 
+
+For the third figure, we see the changes in travel to parks for different regions in Ontario. The regions with the highest changes were Algoma, Middlesex County, York, and Essex County. This makes some sense because these regions have nice parks and are somewhat rural areas, however regions like Nipissing, which is also rural with nice parks, has one of the lowest changes. However, this could be due to the fact that the population already frequently traveled to parks so the change rate would not be that high. 
+
+There is the potential to put these two data sets together in order to figure out trends such as how the number of vaccinations (per 100 people) in each province affects their mobility. Would an increase in vaccinations spark a higher mobility rate (especially to destinations such as workplace)?
+
 
 
 
