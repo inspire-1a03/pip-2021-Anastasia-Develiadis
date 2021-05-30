@@ -10,7 +10,7 @@ nav_order: 4
 
 > Q1: *enter your question here*
 
-<!-- Paste your embed code for your figure below-->
+<iframe seamless frameborder="0" src= "https://public.tableau.com/views/selfinquiry1/Dashboard3?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '650' scrolling='no'></iframe>
 
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
