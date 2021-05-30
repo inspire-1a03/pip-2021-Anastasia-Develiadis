@@ -57,9 +57,9 @@ It appears that during the first wave of the pandemic, beginning in April of 202
 
 ## Final reflection
 
-As we can see, the number of cases increases with every wave, however the fatalities from the second to third wave decreases. The time from the peak of the second wave to the peak of the third wave (in terms of cases), occurred from around January of 2021 to May 2021 where we see a significant increase in cases but a decrease in deaths. If we look to the second figure, we see May 2021 having the highest number of vaccinations per 100 people, so we can make the inference that the decrease in the number of deaths could be due to an increase of vaccinations.
+As we can see, the number of cases increases with every wave, however the fatalities from the second to third wave decreases. The time period from the peak of the second wave to the peak of the third wave (in terms of cases), occurred from around January of 2021 to May 2021 where we see a significant increase in cases but a decrease in deaths. If we look to the second figure, we see May 2021 having the highest number of vaccinations per 100 people, so we can make the inference that the decrease in the number of deaths could be due to an increase of vaccinations.
  
-Additionally, per to the second figure, vaccinations started being administered in Canada around January of 2021 and this is when we see the second wave reach its peak in number of cases and start decreasing. 
+Additionally, per the second figure, vaccinations started being administered in Canada around January of 2021 and this is when we see the second wave reach its peak in number of cases and start decreasing. 
 
 In the third figure, we see that the three outliers in the trend of vaccination rates are Nova Scotia, Nunavut, and Northwest Territories which have a significantly higher rate than the other provinces. However, the reasons for this are unknown and this is a question I would ask moving further into the research of this topic. 
 
