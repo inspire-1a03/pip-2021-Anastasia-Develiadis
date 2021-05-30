@@ -14,7 +14,8 @@ nav_order: 3
 "https://public.tableau.com/views/inspire1a03/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '650' scrolling='no'></iframe> 
 
 #### Summary
-<!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
+
+The areas with the highest number of vaccinations per 100 people are British Colombia (123.1), Northwest Territories (113.6) and Nunavut (78.3). The areas with the lowest highest number of vaccinations per 100 people are Nova Scotia (49.4), Prince Edward Island (49.4), and Newfoundland and Labrador (50). 
 
 
 
@@ -28,7 +29,9 @@ nav_order: 3
 
 
 #### Summary
-<!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
+
+The province with the highest rate of change in mobility to retail and recreation destinations is Newfoundland and Labrador. The other provinces follow a similar trend as one another, dropping significant at the start of the pandemic then spiking upwards towards August of 2020. Then, dropping again during the next wave in the winter of 2021. 
+
 
 
 ---
@@ -40,7 +43,10 @@ nav_order: 3
 "https://public.tableau.com/views/Tableau3_16222680883470/Dashboard2?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '650' scrolling='no'></iframe> 
 
 #### Summary
-<!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
+
+
+The regions with the highest changes in travels to parks were Algoma, Middlesex County, York, and Essex County. The regions with the lowest changes were Waterloo, Brantford and Sudbury. 
+
 
 ## 4. Reflection 
 
