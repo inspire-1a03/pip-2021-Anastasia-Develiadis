@@ -6,9 +6,12 @@ nav_order: 4
 
 # Self-directed inquiry
 
+How has the COVID-19 Pandemic Affected Mobility Trends in Regions of Ontario with a High Indigenous Population vs Regions with a Low Indigenous Population 
+
+
 ## 1. Inquiry 1
 
-> Q1: *enter your question here*
+> Q1:
 
 <iframe seamless frameborder="0" src= "https://public.tableau.com/views/selfinquiry1/Dashboard3?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '650' scrolling='no'></iframe>
 
@@ -36,7 +39,7 @@ nav_order: 4
 
 > Q3: *enter your question here*
 
-<!-- Paste your embed code for your figure below-->
+<iframe seamless frameborder="0" src= "https://public.tableau.com/views/selfinquiry3/Dashboard3?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '650' scrolling='no'></iframe>
 
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
